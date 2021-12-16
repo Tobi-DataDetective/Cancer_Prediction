@@ -18,7 +18,7 @@ A KNN and SVC model would be used in developing suitable algorithms to make a pr
 
 ### Others
 The reports are generated to three formats, .ipynb, .pdf and .html:
-* PDF file of the notebook[Trends_On_Top_African_Countries.ipynb](https://github.com/Tobi-DataDetective/Cancer_Prediction/blob/main/pdf_file.pdf)
-* HTML file of the notebook[Trends_On_Top_African_Countries.pdf](https://github.com/Tobi-DataDetective/Cancer_Prediction/blob/main/html_file.html)
-* Jupyter notebook[Trends_On_Top_African_Countries.pdf](https://github.com/Tobi-DataDetective/Cancer_Prediction/blob/main/html_file.html)
+* [PDF file of the notebook](https://github.com/Tobi-DataDetective/Cancer_Prediction/blob/main/pdf_file.pdf)
+* [HTML file of the notebook](https://github.com/Tobi-DataDetective/Cancer_Prediction/blob/main/html_file.html)
+* [Jupyter notebook](https://github.com/Tobi-DataDetective/Cancer_Prediction/blob/main/html_file.html)
 
