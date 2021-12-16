@@ -9,7 +9,7 @@ A KNN and SVC model would be used in developing suitable algorithms to make a pr
 ### Information
 **About all the various files in this repository**
 
-1. To get familiar and addition information on the dataset used, click [here](https://github.com/Tobi-DataDetective/Top_11_African_Countries/blob/master/aged_15plus_employment_rate_percent.csv)  
+1. To get familiar and addition information on the dataset used, click [here](https://github.com/Tobi-DataDetective/Cancer_Prediction/blob/main/breast-cancer-wisconsin.names)  
 
 2. For the jupyter notebook file that comprises of all Exploratory Analysis and Model Building Click [here](https://github.com/Tobi-DataDetective/Top_11_African_Countries/blob/master/gdppercapita_us_inflation_adjusted.csv)  
 
